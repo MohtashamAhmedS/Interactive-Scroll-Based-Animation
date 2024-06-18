@@ -20,5 +20,5 @@ This project is a dynamic, interactive website that features a smooth scroll-bas
 
 Watch the demo video below to see the project in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TF7B49oZoac?si=gDJM2dX7cjPgZdqb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Interactive Scroll-Based Animation](https://img.youtube.com/vi/TF7B49oZoac&ab_channel=MohtashamAhmed/0.jpg)](https://www.youtube.com/watch?v=TF7B49oZoac&ab_channel=MohtashamAhmed)
 
