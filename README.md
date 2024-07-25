@@ -20,4 +20,4 @@ This project is a dynamic, interactive website that features a smooth scroll-bas
 
 Watch the demo video below to see the project in action:
 
-[![Interactive Scroll-Based Animation](https://img.youtube.com/vi/TF7B49oZoac&ab_channel=MohtashamAhmed/0.jpg)](https://www.youtube.com/watch?v=TF7B49oZoac&ab_channel=MohtashamAhmed)
+[![Interactive Scroll-Based Animation](https://img.youtube.com/vi/TF7B49oZoac/0.jpg)](https://www.youtube.com/watch?v=TF7B49oZoac&ab_channel=MohtashamAhmed)
